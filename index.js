@@ -18,6 +18,6 @@ console.log(7/0)
 console.log("-9"+5)
 console.log("-9"-5)
 console.log(null+1)
-console.log(underfined+1)
+console.log(undefined+1)
 console.log("\t\n"-2)
 
